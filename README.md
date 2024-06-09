@@ -6,28 +6,28 @@ Project Description
 ## Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=django,py,aws,git)](https://skillicons.dev)
 
-☑️ Tech 1: Description
+- Tech 1: Description
 
-☑️ Tech 2: Description
+- Tech 2: Description
 
 
 ## Features 🏆
-☑️ Feature 1: Description
+- Feature 1: Description
 
-☑️ Feature 2: Description
+- Feature 2: Description
 
 
 ## Deployment 🌐
-☑️ Tool 1: Description
+- Tool 1: Description
 
-☑️ Tool 2: Description
+- Tool 2: Description
 
 ## Preview 🎞️
 
 Screenshot
 
 ## Usage 🎯
-☑️ How to use the app/product
+- How to use the app/product
 
 
 ## Connect me 📫

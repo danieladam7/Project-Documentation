@@ -2,12 +2,14 @@
 
 Project Description 
 
+
 ## Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=django,py,aws,git)](https://skillicons.dev)
 
 ☑️ Tech 1: Description
 
 ☑️ Tech 2: Description
+
 
 ## Features 🏆
 ☑️ Feature 1: Description
@@ -27,6 +29,8 @@ Screenshot
 ## Usage 🎯
 ☑️ How to use the app/product
 
+
 ## Connect me 📫
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-adam-backend-developer/)
+[![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielyosef.adam@gmail.com)
 
